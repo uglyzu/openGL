@@ -1,0 +1,8 @@
+C:/OpenGLStuff/glew-2.1.0/mybuild/CMakeFiles/glewinfo.dir
+C:/OpenGLStuff/glew-2.1.0/mybuild/CMakeFiles/glew.dir
+C:/OpenGLStuff/glew-2.1.0/mybuild/CMakeFiles/glew_s.dir
+C:/OpenGLStuff/glew-2.1.0/mybuild/CMakeFiles/uninstall.dir
+C:/OpenGLStuff/glew-2.1.0/mybuild/CMakeFiles/visualinfo.dir
+C:/OpenGLStuff/glew-2.1.0/mybuild/CMakeFiles/INSTALL.dir
+C:/OpenGLStuff/glew-2.1.0/mybuild/CMakeFiles/ALL_BUILD.dir
+C:/OpenGLStuff/glew-2.1.0/mybuild/CMakeFiles/ZERO_CHECK.dir
